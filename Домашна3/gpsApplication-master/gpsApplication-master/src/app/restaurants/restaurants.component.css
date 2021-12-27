@@ -1,0 +1,25 @@
+
+.map{
+  margin-left: auto;
+  margin-right: auto;
+  border: 120px;
+  border-radius: 2%;
+  width: 90%;
+  height: 800px;
+}
+.voved{
+  text-align: center;
+}
+
+body{
+  background-color: gray;
+  min-height: 100%;
+  margin: 0;
+  overflow: hidden;
+
+}
+#html1 {
+  /* To make use of full height of page*/
+  height: 100%;
+  margin: 0;
+}
